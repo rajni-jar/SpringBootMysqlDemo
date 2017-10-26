@@ -1,0 +1,5 @@
+---
+applications:
+- name: springhappydemo
+  buildpack: java_buildpack
+  path: target/SpringBootDemo-0.0.1-SNAPSHOT.jar
